@@ -1,3 +1,5 @@
+> より詳細な自己紹介は[SelfIntroduction](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)をご覧ください。
+
 ## 自己紹介
 
 **向川原悠貴**です！大学を目指して浪人していましたが、好きなことを目指そうと思い、現在は名古屋工学院専門学校でお世話になっています。
