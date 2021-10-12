@@ -1,4 +1,4 @@
-> より詳細な自己紹介は[SelfIntroduction](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)をご覧ください。
+> お時間がございましたら是非、[自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
 
 ## 自己紹介
 
