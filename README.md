@@ -25,15 +25,23 @@
   - oracleDBBlonze
 
 ## スキル
-### 学習した言語
+### 言語
 | 名前 | 習熟度 | 備考 |
 |:----------:|:-----------:|:------------:|
 | html/css   | ★★★☆☆ | デザインの通りにコーデイングが可能 |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |   aligned    |
+| java | ★★☆☆☆ | 簡単なサーバーサイドアプリケーションを作成可能 |
+| c#  | ★★★☆☆ | APIを使用したwindowsアプリケーションを開発可能 |
+| php  | ★☆☆☆☆ | 学習中。基本文法のみ理解 |
+| dart | ★★★★☆ | Flutterでの様々なアプリケーションが開発可能 |
+| swift    | ★★★★☆ | リリース経験あり |
+### その他
+| 名前 | 習熟度 | 備考 |
+|:----------:|:-----------:|:------------:|
+| SQL/oracle/mysql   | ★★★☆☆ | データベーススペシャリストに向けて勉強中 |
+| linux | ★★☆☆☆ | 様々なサーバーの構築が可能、自宅webサーバの二ヶ月の運用経験あり | 
+|  |  |  | 
+|  |  |  | 
+
 
 ### 今はこの残念なグラフを伸ばすことがモチベーションになっています（笑）
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mu-munn&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-munn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
