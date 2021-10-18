@@ -1,6 +1,5 @@
-:::note info
+
 お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
-:::
 
 ## 自己紹介
 
@@ -10,7 +9,7 @@
 
 ## モットー
 
-> **使う人の気持ちを考える**
+ **使う人の気持ちを考える**
 
 自分はアプリを使うユーザーの気持ちを一番大切にしています。使いやすい、見やすいなど、手は抜かないようにしています。  
 最近では、中身のコードも奇麗に作ることにも心がけています。
@@ -47,6 +46,5 @@
 ### 今はこの残念なグラフを伸ばすことがモチベーションになっています（笑）
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mu-munn&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-munn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-:::note info
 お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
-:::
+
