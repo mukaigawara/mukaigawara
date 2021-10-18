@@ -1,4 +1,6 @@
-> お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
+:::note info
+お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
+:::
 
 ## 自己紹介
 
@@ -45,17 +47,6 @@
 ### 今はこの残念なグラフを伸ばすことがモチベーションになっています（笑）
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mu-munn&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-munn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 好きなこと
-
-### アプリ開発
-
-自分はモバイルアプリの開発がとても好きです！とにかく色々なアプリをたくさん作っています(笑)
-最近のマイブームは Flutter です！
-
-### 趣味
-
-自分はドライブが好きです！バイト代は月一万円だけ娯楽費に当てているのですが、ほぼ毎月「食費」「ガソリン代」「高速道路料金」で終わります 💦 アテンザセダン(6 速 MT)に乗っています！！
-
-### ポメラニアン
-
-アイコンのポメラニアンはシュー君と言います！最近はしつけが悪いのか、生意気になってしまいました・・・
+:::note info
+お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
+:::
