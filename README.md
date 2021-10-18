@@ -25,8 +25,17 @@
   - oracleDBBlonze
 
 ## スキル
+### 学習した言語
+| 名前 | 習熟度 | 備考 |
+|:----------:|:-----------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
 
-###今はこの残念なグラフを伸ばすことがモチベーションになっています（笑）
+### 今はこの残念なグラフを伸ばすことがモチベーションになっています（笑）
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mu-munn&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-munn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 好きなこと
