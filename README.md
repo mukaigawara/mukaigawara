@@ -28,7 +28,7 @@
 ### 学習した言語
 | 名前 | 習熟度 | 備考 |
 |:----------:|:-----------:|:------------:|
-| This       |        This |     This     |
+| html/css   | ★★★☆☆ | デザインの通りにコーデイングが可能 |
 | column     |      column |    column    |
 | will       |        will |     will     |
 | be         |          be |      be      |
