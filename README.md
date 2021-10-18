@@ -46,5 +46,5 @@
 ### 今はこの残念なグラフを伸ばすことがモチベーションになっています（笑）
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mu-munn&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mu-munn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
+## お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
 
