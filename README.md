@@ -1,5 +1,5 @@
 
-//お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！
+/* お時間がございましたら是非、[詳しい自己紹介！](https://github.com/Mu-munn/Mu-munn/blob/main/learnmore/MoreDetails.md)もご覧ください！みっちり自己紹介を書いています！ */
 
 ## 自己紹介
 
